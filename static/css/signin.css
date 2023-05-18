@@ -1,0 +1,54 @@
+@font-face {
+    font-family: SDneo;
+    src: url('../font/AppleSDGothicNeoL.ttf');
+}
+
+* {
+    font-family: SDneo;
+}
+
+body {
+    background-image: linear-gradient(120deg, #f6d365 0%, #fda085 100%);
+}
+
+section {
+    background-image: linear-gradient(120deg, #f6d365 0%, #fda085 100%);
+}
+
+label {
+    min-width: 6rem;
+    justify-content: center;
+    background-color: #f6d365 !important;
+}
+
+.btn {
+    margin: 0 auto;
+}
+
+#canvas {
+    width: 100%;
+    height: 100%;
+}
+
+#signin-container {
+    box-shadow: 2px 4px 12px rgba(0, 0, 0, .08);
+}
+
+.img-div {
+    width: 100%;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+    margin: 0 auto;
+    margin-bottom: 1rem;
+    border-radius: 100% !important;
+    background-color: #fff !important;
+    border: 2px solid #f6d365 !important;
+}
+
+.btn-div {
+    display: flex;
+    justify-content: right;
+}
