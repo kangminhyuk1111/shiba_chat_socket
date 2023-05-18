@@ -1,4 +1,4 @@
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/83eceedf-ae14-4019-99a8-3d8a79b2067c/Untitled.png)
+![image](https://github.com/kangminhyuk1111/shiba_chat_socket/assets/96116158/eee7a5f8-01f7-478d-875d-d5c2104fde63)
 
 Live Link : [http://115.85.180.211:8001/](http://115.85.180.211:8001/)
 
