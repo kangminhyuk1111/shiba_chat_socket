@@ -1,4 +1,6 @@
-![image](https://github.com/kangminhyuk1111/shiba_chat_socket/assets/96116158/eee7a5f8-01f7-478d-875d-d5c2104fde63)
+![ezgif com-video-to-gif (10)](https://github.com/kangminhyuk1111/shiba_chat_socket/assets/96116158/d39cd618-ebff-42dd-983e-5fd61ed781f4)
+
+# 풀스택 채팅 앱 시바챗 ejs + socket.io
 
 Live Link : [http://115.85.180.211:8001/](http://115.85.180.211:8001/)
 
@@ -21,10 +23,18 @@ Live Link : [http://115.85.180.211:8001/](http://115.85.180.211:8001/)
 ## 기능
 
 - socket.io를 이용한 실시간 채팅 구현
+![ezgif com-video-to-gif (10)](https://github.com/kangminhyuk1111/shiba_chat_socket/assets/96116158/c89ae83c-ba75-4f09-ac35-2d6a27d5dc76)
+
 - three.js로 3d 모델링 파일을 웹에서 구현
+![ezgif com-video-to-gif (9)](https://github.com/kangminhyuk1111/shiba_chat_socket/assets/96116158/9f28b0cb-449e-43c5-8000-3abafc3710d0)
+
 - DB(MySQL) 연동으로 백엔드 서버에서 회원가입, 로그인 로직 구현
+![ezgif com-video-to-gif (11)](https://github.com/kangminhyuk1111/shiba_chat_socket/assets/96116158/24fc9ec9-59f3-47dd-8a60-f813996b1697)
+
 - multer를 사용하여 사진 업로드기능을 구현후 유저의 profile에 등록 및 채팅앱에 연동
+
 - Modal을 이용하여 사용자의 프로필 수정창 구현
+![ezgif com-video-to-gif (12)](https://github.com/kangminhyuk1111/shiba_chat_socket/assets/96116158/6d921e99-0659-429b-920c-e35976b868bb)
 
 ## 작업 내용 및 트러블 슈팅 내용
 
