@@ -25,6 +25,7 @@ Live Link : [http://115.85.180.211:8001/](http://115.85.180.211:8001/)
 - socket.io를 이용한 실시간 채팅 구현
 
 ![ezgif com-video-to-gif (10)](https://github.com/kangminhyuk1111/shiba_chat_socket/assets/96116158/c89ae83c-ba75-4f09-ac35-2d6a27d5dc76)
+![ezgif com-video-to-gif (13)](https://github.com/kangminhyuk1111/shiba_chat_socket/assets/96116158/2817e5a9-4d0a-4110-b177-f99349824153)
 
 - three.js로 3d 모델링 파일을 웹에서 구현
 
